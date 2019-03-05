@@ -55,7 +55,7 @@
                             <addClasspath>true</addClasspath>
                             <useUniqueVersions>false</useUniqueVersions>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>oata.HelloWorld</mainClass>
+                            <mainClass>com.demo.runindocker.RunindockerApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
